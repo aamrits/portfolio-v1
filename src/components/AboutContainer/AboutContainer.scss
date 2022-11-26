@@ -1,0 +1,27 @@
+#about {
+    height: calc(100vh - 80px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero-title,
+.hero-subtitle {
+    font-weight: 700;
+    margin-bottom: 20px;
+    line-height: 60px;
+}
+
+.hero-title {
+    font-size: 5em;
+}
+
+.hero-subtitle {
+    font-size: 3.5em;
+}
+
+.bio {
+    width: 60%;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+}

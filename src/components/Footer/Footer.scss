@@ -1,0 +1,12 @@
+footer {
+    margin: 20px 0;
+    text-align: center;
+    .social-link {
+        a {
+            color: var(--dark-blue);
+            text-decoration: none;
+            font-size: 1.3em;
+            margin: 0 8px;
+        }
+    }
+}
